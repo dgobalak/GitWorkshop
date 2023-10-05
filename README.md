@@ -1,2 +1,2 @@
 # GitWorkshop
-A workshop on git fundamentals.
+A workshop on git fundamentals
